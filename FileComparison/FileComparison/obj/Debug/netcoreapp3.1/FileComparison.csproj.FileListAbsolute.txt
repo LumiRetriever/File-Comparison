@@ -1,0 +1,11 @@
+C:\Users\Thomas\source\repos\FileComparison\FileComparison\bin\Debug\netcoreapp3.1\FileComparison.exe
+C:\Users\Thomas\source\repos\FileComparison\FileComparison\bin\Debug\netcoreapp3.1\FileComparison.deps.json
+C:\Users\Thomas\source\repos\FileComparison\FileComparison\bin\Debug\netcoreapp3.1\FileComparison.runtimeconfig.json
+C:\Users\Thomas\source\repos\FileComparison\FileComparison\bin\Debug\netcoreapp3.1\FileComparison.runtimeconfig.dev.json
+C:\Users\Thomas\source\repos\FileComparison\FileComparison\bin\Debug\netcoreapp3.1\FileComparison.dll
+C:\Users\Thomas\source\repos\FileComparison\FileComparison\bin\Debug\netcoreapp3.1\FileComparison.pdb
+C:\Users\Thomas\source\repos\FileComparison\FileComparison\obj\Debug\netcoreapp3.1\FileComparison.csprojAssemblyReference.cache
+C:\Users\Thomas\source\repos\FileComparison\FileComparison\obj\Debug\netcoreapp3.1\FileComparison.AssemblyInfoInputs.cache
+C:\Users\Thomas\source\repos\FileComparison\FileComparison\obj\Debug\netcoreapp3.1\FileComparison.AssemblyInfo.cs
+C:\Users\Thomas\source\repos\FileComparison\FileComparison\obj\Debug\netcoreapp3.1\FileComparison.dll
+C:\Users\Thomas\source\repos\FileComparison\FileComparison\obj\Debug\netcoreapp3.1\FileComparison.pdb
